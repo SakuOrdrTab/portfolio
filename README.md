@@ -26,4 +26,31 @@ Blender
 
 Blender
 
+![woman](./images/woman_lilapinkki.png)
+
+Illustrator from a photo
+
+![Pharaoh matte](./images/timonkhamon.png)
+
+Photoshop with stable diffusion and matte
+
+![uncle sam](./images/Der%20Untergang%20des%20Abendlandes.jpg)
+
+Photoshopt matte
+
+![spring](./images/sakura_pinkki.jpg)
+
+Adobe llustrator
+
+![summer](./images/kesapuu.png)
+
+Adobe Illustrator
+
+![autumn](./images/syyspuu.png)
+
+Adobe Illustrator
+
+![winter](./images/talvipuu.png)
+
+Adobe Illustrator
 

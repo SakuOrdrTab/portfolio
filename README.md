@@ -36,7 +36,7 @@ Photoshop with stable diffusion and matte -->
 
 ![uncle sam](./images/Der%20Untergang%20des%20Abendlandes.jpg)
 
-Photoshopt matte
+Photoshop matte painting
 
 ![spring](./images/sakura_pinkki.jpg)
 
@@ -53,4 +53,16 @@ Adobe Illustrator
 ![winter](./images/talvipuu.png)
 
 Adobe Illustrator
+
+![cat_with_cigarette](./images/keijo_cig.jpg)
+
+Adobe Photoshop
+
+![stratoshphere](./images/suoavaruus.png)
+
+Matte with Adobe Photoshop
+
+![tarot_card](./images/surgeon_tarot.png)
+
+Photoshop composition, chatGPT image generation and Photoshop again
 
